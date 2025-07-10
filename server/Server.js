@@ -37,7 +37,7 @@ app.use((err, req, res, next) => {
 });
 
 // Define the port
-const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT ;
 
 // Start the server
 app.listen(PORT, () => {
