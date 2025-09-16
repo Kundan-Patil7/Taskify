@@ -10,7 +10,7 @@ import Navbar from "./components/Navbar";
 import CreatTodo from "./pages/CreatTodo";
 import AllTodos from "./pages/AllTodos";
 import ContactPage from "./pages/ContactPage";
-import SignUp from "./pages/signUp";
+import SignUp from "./pages/SignUp";
 import Login from "./pages/Login";
 import NotFoundPage from "./pages/NotFoundPage ";
 import LandingPage from "./pages/LandingPage ";
